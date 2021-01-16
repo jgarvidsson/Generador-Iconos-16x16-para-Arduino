@@ -25,3 +25,16 @@ El generador de iconos posee dos ventanas de 16x16 pixels, la primera, a la izqu
 - **Copiar para Arduino**: Copia en el portapapeles el codigo binario del Icono para ser pegado en cualquier proyeto.
 - **Guardar en Archivo**: Guarda el archivo en .txt. Si se activa 'como Proyecto Arduino', guardará un proyecto .ino para probar el Icono creado/editado.
 - **como Proyecto Arduino**: Activado genera el código C++ para probar el Icono.
+
+### Decodificador de código binario
+El Decodificador de código toma la muestra insertada en la caja de texto y si corresponde a la codificación binaria la muestra en la pantalla de visualizadión (situada a la izquierda).
+
+![Ventana del Decodificador de código binario](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/blob/img/2_DecodificadorBinario.png?raw=true)
+
+#### Controles de la ventana:
+- **Copiar el Texto Binario Completo**: Ventana donde se pega el código del Icono en binario.
+- **Editar Icono**: Transfiere el Icono desde la pantalla de Visualización a la ventana del *Generador de Iconos* para editarse.
+- **Inicia con 0b**: Filtra el código binario que contenga la cabecera de cada cadena de bites 0b.
+- **Inicia con B**: Filtra el código binario que contenga la cabecera de cada cadena de bites B.
+- **Borrar Binario**:
+
