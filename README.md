@@ -16,4 +16,12 @@ El generador (archivo EXCEL) está dividio en tres partes (hojas):
 ### Generador de Iconos
 El generador de iconos posee dos ventanas de 16x16 pixels, la primera, a la izquierda, representa la pizarra donde se dibujará el Icono, y la segundo, a la derecha, como quedará el icono.
 
-![Generador de Iconos 16x16 pixels](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/master/img/1_GeneradorIconos.png)
+![Generador de Iconos 16x16 pixels](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/blob/img/1_GeneradorIconos.png?raw=true)
+
+#### Controles de la ventana:
+- **Borrar**: Remueve el icono editado.
+- **Invertir**: Invierte la codificación binaria para mostrar la imagen invertida.
+- **Nombre del Icono**: Da el nombre del Icono que aparecerá en el código.
+- **Copiar para Arduino**: Copia en el portapapeles el codigo binario del Icono para ser pegado en cualquier proyeto.
+- **Guardar en Archivo**: Guarda el archivo en .txt. Si se activa 'como Proyecto Arduino', guardará un proyecto .ino para probar el Icono creado/editado.
+- **como Proyecto Arduino**: Activado genera el código C++ para probar el Icono.
