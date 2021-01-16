@@ -1,4 +1,4 @@
-# Generador-Iconos-16x16-para-Arduino
+# Generador Iconos 16x16 para Arduino
 ## Datos del Proyecto
 - **Descripción:** Generador de Iconos 16x16 pixels que transfiere la imagen a código C++ para poder ser usado por Arduino.
 - **Codificación:** WHN_016.
