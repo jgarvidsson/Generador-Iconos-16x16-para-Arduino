@@ -6,6 +6,8 @@
 
 Este proyecto está montado en EXCEL usando el lenguaje de programación BVA y fue encargado para poder crear pequeños Iconos (16x16 pixeles) para proyectos IoT en Arduino usando pantalas OLED.
 
+La herramienta la puedes descargar desde la rama Tool de este repositorio o pulsando aquí [Generador de Iconos 16x16](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/blob/Tool/Iconos%2016x16.xlsm)
+
 ## Cómo usarlo
 El generador (archivo EXCEL) está dividio en tres partes (hojas):
 - 1) **Generador de Iconos**.
