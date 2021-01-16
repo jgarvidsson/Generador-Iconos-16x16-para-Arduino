@@ -1,7 +1,7 @@
 # Generador Iconos 16x16 para Arduino
 ## Datos del Proyecto
 - **Descripción:** Generador de Iconos 16x16 pixels que transfiere la imagen a código C++ para poder ser usado por Arduino.
-- **Codificación:** WHN_016.
+- **Codificación:** WHN_016 (número de catalogo personal).
 - **Lenguaje:** VBA en EXCEL.
 
 Este proyecto está montado en EXCEL usando el lenguaje de programación BVA y fue encargado para poder crear pequeños Iconos (16x16 pixeles) para proyectos IoT en Arduino usando pantalas OLED.
@@ -14,7 +14,7 @@ El generador (archivo EXCEL) está dividio en tres partes (hojas):
 
 
 ### Generador de Iconos
-El generador de iconos posee dos ventanas de 16x16 pixels, la primera, a la izquierda, representa la pizarra donde se dibujará el Icono, y la segundo, a la derecha, como quedará el icono.
+El Generador de Iconos posee dos ventanas de 16x16 pixels, la primera, a la izquierda, representa la pizarra donde se dibujará el Icono, y la segundo, a la derecha, como quedará el icono.
 
 ![Generador de Iconos 16x16 pixels](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/blob/img/1_GeneradorIconos.png?raw=true)
 
