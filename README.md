@@ -38,3 +38,17 @@ El Decodificador de código toma la muestra insertada en la caja de texto y si c
 - **Inicia con B**: Filtra el código binario que contenga la cabecera de cada cadena de bites B.
 - **Borrar Binario**:
 
+### Icono predefinidos
+Contiene una lista predefinida de Iconos 16x16 pixels. Fuente: https://engsta.net/iot-icon-set-for-i2c-oled-displays/.
+
+Permite seleccionar un Icono predefinido de la lista y copiar, guardar o editar el mismo para usar en proyectos Arduino.
+
+![Ventana de Lista predefinida de Iconos 16x16 pixels](https://github.com/jgarvidsson/Generador-Iconos-16x16-para-Arduino/blob/img/3_ListaPredefinida.png?raw=true)
+
+#### Controles de la ventana:
+- **Copiar Código**: Copia en el portapapeles el codigo binario del Icono para ser pegado en cualquier proyeto.
+- **Guardar en Archivo**: Guarda el archivo en .txt. Si se activa 'como Proyecto Arduino', guardará un proyecto .ino para probar el Icono creado/editado.
+- **como Proyecto Arduino**: Activado genera el código C++ para probar el Icono.
+- **Editar Icono**: Transfiere el Icono desde la pantalla de Visualización a la ventana del *Generador de Iconos* para editarse.
+- **Cargar Lista**: Recarga la lista de Iconos predifinidas (por defecto la lista está vacía).
+
