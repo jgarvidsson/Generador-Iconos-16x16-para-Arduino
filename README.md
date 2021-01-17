@@ -3,6 +3,7 @@
 - **Descripción:** Generador de Iconos 16x16 pixels que transfiere la imagen a código C++ para poder ser usado por Arduino.
 - **Codificación:** WHN_016 (número de catalogo personal).
 - **Lenguaje:** VBA en EXCEL.
+- **Testado en**: Ver detalles al final de este documento.
 
 Este proyecto está montado en EXCEL usando el lenguaje de programación BVA y fue encargado para poder crear pequeños Iconos (16x16 pixeles) para proyectos IoT en Arduino usando pantalas OLED.
 
@@ -54,3 +55,6 @@ Permite seleccionar un Icono predefinido de la lista y copiar, guardar o editar 
 - **Editar Icono**: Transfiere el Icono desde la pantalla de Visualización a la ventana del *Generador de Iconos* para editarse.
 - **Cargar Lista**: Recarga la lista de Iconos predifinidas (por defecto la lista está vacía).
 
+## Testado en las siguientes tarjetas:
+- **WeMos D1**: Necesita cargar la librería de tarjetas: http://arduino.esp8266.com/stable/package_esp8266com_index.json y seleccionar WeMos D1 R1.
+- **WeMos D1 R32**: Necesita cargar la librería de tarjetas: http://resource.heltec.cn/download/package_heltec_esp32_index.json y seleccionar WiFi Kit32.
