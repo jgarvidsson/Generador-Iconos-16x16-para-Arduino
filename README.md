@@ -39,7 +39,7 @@ El Decodificador de código toma la muestra insertada en la caja de texto y si c
 - **Editar Icono**: Transfiere el Icono desde la pantalla de Visualización a la ventana del *Generador de Iconos* para editarse.
 - **Inicia con 0b**: Filtra el código binario que contenga la cabecera de cada cadena de bites 0b.
 - **Inicia con B**: Filtra el código binario que contenga la cabecera de cada cadena de bites B.
-- **Borrar Binario**:
+- **Borrar Binario**: Borrar el cuadro con la composición binaria.
 
 ### Icono predefinidos
 Contiene una lista predefinida de Iconos 16x16 pixels. Fuente: https://engsta.net/iot-icon-set-for-i2c-oled-displays/.
